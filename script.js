@@ -7,8 +7,8 @@ Array.buttons.forEach((button) => {
             string = eval(string);
             document.querySelector('input').value=string;
         }
-        if (e.target.innerHtml == '='){
-            string = eval(string);
+        if (e.target.innerHtml == 'C'){
+            string = "";
             document.querySelector('input').value=string;
         }
         if (e.target.innerHtml == '='){
