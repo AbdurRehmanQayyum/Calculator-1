@@ -9,6 +9,7 @@ body{
 
 
 .button{
+    width: 66px;
     font-size: 25px;
     margin: 0 3px;
     padding: 20px;
@@ -22,6 +23,7 @@ body{
 }
 
 .input{
+    width: 275px;
     font-size: 25px;
     margin: 0px;
     padding: 8px;
